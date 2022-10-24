@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Viper166xAzrael
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Viper166xAzrael's Profile Information
+
+My real name is Michael Alexander, my age is 17, and i'm a intermediate "6/10" coder, Owner of the fanmade @CallofDuty-Foundation GitHub Organization. More things about me are coming soon in the future
+
+---
+
+### Contact Me
+
+Email: mirobyalex166@gmail.com
+
+---
 
 <!---
 Viper166xAzrael/Viper166xAzrael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
